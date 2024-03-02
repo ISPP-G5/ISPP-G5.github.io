@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Route , Routes} from 'react-router-dom';
 import './styles.css';
 
-import LandingPage from '../LandingPage/LandingPage';
-import TeamPage from '../LandingPage/TeamPage';
+import LandingPage from './LandingPage';
+import TeamPage from './TeamPage';
 import MilestonesPage from './MilestonePage';
 
 function App() {

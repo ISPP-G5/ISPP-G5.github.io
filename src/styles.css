@@ -336,7 +336,7 @@ select{
 }
 
 .lp-bg{
-  background-image: url("../LandingPage/HTML/classroom.jpg"); 
+  background-image: url("./HTML/classroom.jpg"); 
   height:'100%';
   width:'100%';
 
