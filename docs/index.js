@@ -3,7 +3,7 @@ import '../styles/styles.css';
 
 import LandingPage from '../LandingPage/LandingPage';
 import TeamPage from '../LandingPage/TeamPage';
-import MilestonesPage from '../docs/MilestonePage';
+import MilestonesPage from './MilestonePage';
 
 function App() {
   return (
