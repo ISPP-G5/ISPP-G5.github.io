@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/styles.css';
+import './styles.css';
 import logo from './HTML/sinfondo-nexong.png';
 import { Link } from "react-router-dom";
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/styles.css';
+import './styles.css';
 import logo from './HTML/sinfondo-nexong.png';
 import logofondo from './HTML/nexonglogo.png'
 import malogo from './HTML/confondo-mac.png';
