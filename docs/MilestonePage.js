@@ -3,10 +3,6 @@ import '../styles/styles.css';
 import logo from './HTML/sinfondo-nexong.png';
 import { Link } from "react-router-dom";
 
-
-
-
-
 function LandingPage() {
     return (
     <div className='lp-bg'>
