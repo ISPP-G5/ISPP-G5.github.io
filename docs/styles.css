@@ -404,7 +404,7 @@ select{
 
 .lp-text-external{
   align-self: 'center';
-  background-color: rgba(185, 219, 249, 0.548);
+  
   border-radius: 25px; 
   width: 90%;
   margin-left: 5%;
@@ -418,7 +418,8 @@ select{
 }
 
 .lp-text{
-    margin-left: 5%;
+    margin-left: 10%;
+    margin-right: 5%;
 }
 
 .hd-center{
