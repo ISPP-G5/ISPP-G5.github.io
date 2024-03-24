@@ -156,6 +156,18 @@ button:hover{
   .b4{
     bottom: 290px;
   }
+  h2{
+    font-size: 10px;
+  }
+  p{
+    font-size: 15px;
+  }
+  .user-pic{
+    width: 120px;
+  }
+  .index-container{
+    margin-left: 10px;
+  }
 }
 
 
