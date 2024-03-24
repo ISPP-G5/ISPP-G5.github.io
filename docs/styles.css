@@ -169,7 +169,7 @@ button:hover{
     width: 120px;
   }
   .index-container{
-    margin-left: 1%;
+    margin-left: 20px;
   }
 }
 
@@ -194,7 +194,6 @@ button:hover{
     margin-top: 5%;
     margin-left: 15%;
     width: 60%;
-    max-width: 700px;
 }
 
 .link-img{
