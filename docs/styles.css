@@ -163,6 +163,9 @@ button:hover{
     font-size: 15px;
   }
   .user-pic{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
     width: 120px;
   }
   .index-container{
