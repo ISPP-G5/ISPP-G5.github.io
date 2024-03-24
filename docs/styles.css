@@ -142,7 +142,19 @@ button:hover{
     font-size: 10px;
   }
   .lp-bg{
-    height: 3000px;
+    min-height: 768px;
+  }
+  .b1{
+    bottom: 20px;
+  }
+  .b2{
+    bottom: 110px;
+  }
+  .b3{
+    bottom: 200px;
+  }
+  .b4{
+    bottom: 290px;
   }
 }
 
