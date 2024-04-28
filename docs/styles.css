@@ -33,11 +33,18 @@ header {
     color: white;
     right: 20px;
     top: 10px;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    border-radius: 10px;
 }
-
+.socials a {
+    color: white;
+    margin: 0 10px;
+}
 .header {
     position: relative;
-    background: linear-gradient(to bottom, #1d49a6, #0c2b6e);
+    background: linear-gradient(to bottom, #1d49a6, #081e4d);
     padding: 20px 40px;
     padding-bottom: 140px;
     clip-path: polygon(
