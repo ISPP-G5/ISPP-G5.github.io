@@ -566,6 +566,9 @@ button:hover {
         font-size: initial;
         padding: 10px;
     }
+    .second {
+        width: 100%;
+    }
     .header {
         clip-path: polygon(
             100% 0%,
