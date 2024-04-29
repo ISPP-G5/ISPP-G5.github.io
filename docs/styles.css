@@ -7,6 +7,7 @@ html {
     z-index: 2;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
         "Lucida Sans", Arial, sans-serif;
+    margin-bottom: 50px;
 }
 
 a {
@@ -370,7 +371,6 @@ button:hover {
 
 .lp-text-external {
     align-self: "center";
-    color: #fcfdff;
     border-radius: 25px;
     width: 90%;
     margin-left: 5%;
@@ -557,7 +557,6 @@ button:hover {
     }
     .body {
         margin-top: 250px;
-        margin-bottom: 50px;
     }
 }
 
