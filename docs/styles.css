@@ -567,6 +567,10 @@ button:hover {
 }
 
 @media (max-width: 800px) {
+    .despliegues {
+        margin-left: 0;
+        margin-right: 0;
+    }
     .link {
         font-size: initial;
         padding: 10px;
@@ -652,8 +656,13 @@ button:hover {
         display: none;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 360px) {
     .usuario-piloto {
-        bottom: -270px;
+        bottom: -220px;
+        padding: 10px;
+    }
+    .header {
+        padding: 10px;
+        padding-bottom: 140px;
     }
 }
