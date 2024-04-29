@@ -42,6 +42,12 @@ header {
 .socials a {
     color: white;
     margin: 0 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.socials p {
+    margin: 0;
 }
 .header {
     position: relative;
@@ -543,7 +549,7 @@ button:hover {
 
 @media (max-width: 1250px) {
     .logo-nexong {
-        width: 40%;
+        width: max(40%, 150px);
     }
     .container {
         width: 100%;
@@ -631,5 +637,23 @@ button:hover {
     .usuario-piloto {
         left: 0;
         right: 0;
+    }
+    .col-inside {
+        flex-direction: column;
+    }
+    .socials {
+        right: 10px;
+        padding: 5px;
+    }
+    .socials a {
+        margin: 0 4px;
+    }
+    .socials p {
+        display: none;
+    }
+}
+@media (max-width: 320px) {
+    .usuario-piloto {
+        bottom: -270px;
     }
 }
